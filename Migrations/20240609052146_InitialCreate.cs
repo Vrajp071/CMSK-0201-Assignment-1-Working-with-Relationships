@@ -1,6 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore.Migrations;
 
-#nullable disable
 
 namespace Vraj_P_Patel_3154641_Assignment_1.Migrations
 {
